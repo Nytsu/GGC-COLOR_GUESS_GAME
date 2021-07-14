@@ -1,0 +1,3 @@
+name score
+nytsu 10
+nytsu 7
