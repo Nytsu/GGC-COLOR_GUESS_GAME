@@ -1,18 +1,15 @@
 '''        COLOR GUESS GAME(CGG) version 0.2
 ------------------------------------------------------
-     Created by: Justin J. De La Cruz (Student #99975)
-     For: Advance Programming(Python) CECS3210,
-          Universidad Politecnica de Puerto Rico
-
+     Created by Justin J. De La Cruz
      Game where you have to write the color of the text
      and not the text written.
 
      version 0.2 changes:
           - Included Classes
           - New GUI design
-          
 ---------------------------------------------------------
 '''
+
 from graphics import *
 import random
 import time
